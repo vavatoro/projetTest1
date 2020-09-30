@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: c2d3ca148484167488c79c726c9b1e47
+timeCreated: 1456160397
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bowling_lane
+    100002: //RootNode
+    100004: Component_1
+    100006: Component_1 1
+    100008: Component_1 2
+    100010: Component_1 3
+    100012: Component_1 4
+    100014: Component_1 5
+    100016: Component_1 6
+    100018: Component_1 7
+    100020: Component_1 8
+    100022: Component_2
+    100024: ID104
+    100026: ID110
+    100028: ID118
+    100030: ID12
+    100032: ID128
+    100034: ID134
+    100036: ID140
+    100038: ID146
+    100040: ID154
+    100042: ID160
+    100044: ID164
+    100046: ID168
+    100048: ID172
+    100050: ID176
+    100052: ID180
+    100054: ID184
+    100056: ID188
+    100058: ID192
+    100060: ID196
+    100062: ID20
+    100064: ID200
+    100066: ID221
+    100068: ID221 1
+    100070: ID221 2
+    100072: ID221 3
+    100074: ID221 4
+    100076: ID221 5
+    100078: ID221 6
+    100080: ID221 7
+    100082: ID221 8
+    100084: ID229
+    100086: ID229 1
+    100088: ID229 2
+    100090: ID229 3
+    100092: ID229 4
+    100094: ID229 5
+    100096: ID229 6
+    100098: ID229 7
+    100100: ID229 8
+    100102: ID235
+    100104: ID235 1
+    100106: ID235 2
+    100108: ID235 3
+    100110: ID235 4
+    100112: ID235 5
+    100114: ID235 6
+    100116: ID235 7
+    100118: ID235 8
+    100120: ID243
+    100122: ID243 1
+    100124: ID243 2
+    100126: ID243 3
+    100128: ID243 4
+    100130: ID243 5
+    100132: ID243 6
+    100134: ID243 7
+    100136: ID243 8
+    100138: ID26
+    100140: ID269
+    100142: ID275
+    100144: ID281
+    100146: ID287
+    100148: ID293
+    100150: ID307
+    100152: ID315
+    100154: ID32
+    100156: ID321
+    100158: ID334
+    100160: ID42
+    100162: ID50
+    100164: ID58
+    100166: ID66
+    100168: ID72
+    100170: ID80
+    100172: ID86
+    100174: ID92
+    100176: ID98
+    100178: instance_0
+    100180: instance_1
+    100182: instance_10
+    100184: instance_11
+    100186: instance_2
+    100188: instance_3
+    100190: instance_4
+    100192: instance_5
+    100194: instance_6
+    100196: instance_7
+    100198: instance_8
+    100200: instance_9
+    100202: Steve
+    400000: Bowling_lane
+    400002: //RootNode
+    400004: Component_1
+    400006: Component_1 1
+    400008: Component_1 2
+    400010: Component_1 3
+    400012: Component_1 4
+    400014: Component_1 5
+    400016: Component_1 6
+    400018: Component_1 7
+    400020: Component_1 8
+    400022: Component_2
+    400024: ID104
+    400026: ID110
+    400028: ID118
+    400030: ID12
+    400032: ID128
+    400034: ID134
+    400036: ID140
+    400038: ID146
+    400040: ID154
+    400042: ID160
+    400044: ID164
+    400046: ID168
+    400048: ID172
+    400050: ID176
+    400052: ID180
+    400054: ID184
+    400056: ID188
+    400058: ID192
+    400060: ID196
+    400062: ID20
+    400064: ID200
+    400066: ID221
+    400068: ID221 1
+    400070: ID221 2
+    400072: ID221 3
+    400074: ID221 4
+    400076: ID221 5
+    400078: ID221 6
+    400080: ID221 7
+    400082: ID221 8
+    400084: ID229
+    400086: ID229 1
+    400088: ID229 2
+    400090: ID229 3
+    400092: ID229 4
+    400094: ID229 5
+    400096: ID229 6
+    400098: ID229 7
+    400100: ID229 8
+    400102: ID235
+    400104: ID235 1
+    400106: ID235 2
+    400108: ID235 3
+    400110: ID235 4
+    400112: ID235 5
+    400114: ID235 6
+    400116: ID235 7
+    400118: ID235 8
+    400120: ID243
+    400122: ID243 1
+    400124: ID243 2
+    400126: ID243 3
+    400128: ID243 4
+    400130: ID243 5
+    400132: ID243 6
+    400134: ID243 7
+    400136: ID243 8
+    400138: ID26
+    400140: ID269
+    400142: ID275
+    400144: ID281
+    400146: ID287
+    400148: ID293
+    400150: ID307
+    400152: ID315
+    400154: ID32
+    400156: ID321
+    400158: ID334
+    400160: ID42
+    400162: ID50
+    400164: ID58
+    400166: ID66
+    400168: ID72
+    400170: ID80
+    400172: ID86
+    400174: ID92
+    400176: ID98
+    400178: instance_0
+    400180: instance_1
+    400182: instance_10
+    400184: instance_11
+    400186: instance_2
+    400188: instance_3
+    400190: instance_4
+    400192: instance_5
+    400194: instance_6
+    400196: instance_7
+    400198: instance_8
+    400200: instance_9
+    400202: Steve
+    2300000: Bowling_lane
+    2300002: Component_1
+    2300004: Component_1 1
+    2300006: Component_1 2
+    2300008: Component_1 3
+    2300010: Component_1 4
+    2300012: Component_1 5
+    2300014: Component_1 6
+    2300016: Component_1 7
+    2300018: Component_1 8
+    2300020: Component_2
+    2300022: ID104
+    2300024: ID110
+    2300026: ID118
+    2300028: ID12
+    2300030: ID128
+    2300032: ID134
+    2300034: ID140
+    2300036: ID146
+    2300038: ID154
+    2300040: ID160
+    2300042: ID164
+    2300044: ID168
+    2300046: ID172
+    2300048: ID176
+    2300050: ID180
+    2300052: ID184
+    2300054: ID188
+    2300056: ID192
+    2300058: ID196
+    2300060: ID20
+    2300062: ID200
+    2300064: ID221
+    2300066: ID221 1
+    2300068: ID221 2
+    2300070: ID221 3
+    2300072: ID221 4
+    2300074: ID221 5
+    2300076: ID221 6
+    2300078: ID221 7
+    2300080: ID221 8
+    2300082: ID229
+    2300084: ID229 1
+    2300086: ID229 2
+    2300088: ID229 3
+    2300090: ID229 4
+    2300092: ID229 5
+    2300094: ID229 6
+    2300096: ID229 7
+    2300098: ID229 8
+    2300100: ID235
+    2300102: ID235 1
+    2300104: ID235 2
+    2300106: ID235 3
+    2300108: ID235 4
+    2300110: ID235 5
+    2300112: ID235 6
+    2300114: ID235 7
+    2300116: ID235 8
+    2300118: ID243
+    2300120: ID243 1
+    2300122: ID243 2
+    2300124: ID243 3
+    2300126: ID243 4
+    2300128: ID243 5
+    2300130: ID243 6
+    2300132: ID243 7
+    2300134: ID243 8
+    2300136: ID26
+    2300138: ID269
+    2300140: ID275
+    2300142: ID281
+    2300144: ID287
+    2300146: ID293
+    2300148: ID307
+    2300150: ID315
+    2300152: ID32
+    2300154: ID321
+    2300156: ID334
+    2300158: ID42
+    2300160: ID50
+    2300162: ID58
+    2300164: ID66
+    2300166: ID72
+    2300168: ID80
+    2300170: ID86
+    2300172: ID92
+    2300174: ID98
+    2300176: Steve
+    3300000: Bowling_lane
+    3300002: Component_1
+    3300004: Component_1 1
+    3300006: Component_1 2
+    3300008: Component_1 3
+    3300010: Component_1 4
+    3300012: Component_1 5
+    3300014: Component_1 6
+    3300016: Component_1 7
+    3300018: Component_1 8
+    3300020: Component_2
+    3300022: ID104
+    3300024: ID110
+    3300026: ID118
+    3300028: ID12
+    3300030: ID128
+    3300032: ID134
+    3300034: ID140
+    3300036: ID146
+    3300038: ID154
+    3300040: ID160
+    3300042: ID164
+    3300044: ID168
+    3300046: ID172
+    3300048: ID176
+    3300050: ID180
+    3300052: ID184
+    3300054: ID188
+    3300056: ID192
+    3300058: ID196
+    3300060: ID20
+    3300062: ID200
+    3300064: ID221
+    3300066: ID221 1
+    3300068: ID221 2
+    3300070: ID221 3
+    3300072: ID221 4
+    3300074: ID221 5
+    3300076: ID221 6
+    3300078: ID221 7
+    3300080: ID221 8
+    3300082: ID229
+    3300084: ID229 1
+    3300086: ID229 2
+    3300088: ID229 3
+    3300090: ID229 4
+    3300092: ID229 5
+    3300094: ID229 6
+    3300096: ID229 7
+    3300098: ID229 8
+    3300100: ID235
+    3300102: ID235 1
+    3300104: ID235 2
+    3300106: ID235 3
+    3300108: ID235 4
+    3300110: ID235 5
+    3300112: ID235 6
+    3300114: ID235 7
+    3300116: ID235 8
+    3300118: ID243
+    3300120: ID243 1
+    3300122: ID243 2
+    3300124: ID243 3
+    3300126: ID243 4
+    3300128: ID243 5
+    3300130: ID243 6
+    3300132: ID243 7
+    3300134: ID243 8
+    3300136: ID26
+    3300138: ID269
+    3300140: ID275
+    3300142: ID281
+    3300144: ID287
+    3300146: ID293
+    3300148: ID307
+    3300150: ID315
+    3300152: ID32
+    3300154: ID321
+    3300156: ID334
+    3300158: ID42
+    3300160: ID50
+    3300162: ID58
+    3300164: ID66
+    3300166: ID72
+    3300168: ID80
+    3300170: ID86
+    3300172: ID92
+    3300174: ID98
+    3300176: Steve
+    4300000: Steve
+    4300002: ID12
+    4300004: ID20
+    4300006: ID26
+    4300008: ID32
+    4300010: ID42
+    4300012: ID50
+    4300014: ID58
+    4300016: ID66
+    4300018: ID72
+    4300020: ID80
+    4300022: ID86
+    4300024: ID92
+    4300026: ID98
+    4300028: ID104
+    4300030: ID110
+    4300032: ID118
+    4300034: ID128
+    4300036: ID134
+    4300038: ID140
+    4300040: ID146
+    4300042: ID154
+    4300044: ID160
+    4300046: ID164
+    4300048: ID168
+    4300050: ID172
+    4300052: ID176
+    4300054: ID180
+    4300056: ID184
+    4300058: ID188
+    4300060: ID192
+    4300062: ID196
+    4300064: ID200
+    4300066: Bowling_lane
+    4300068: ID307
+    4300070: ID315
+    4300072: ID321
+    4300074: ID334
+    4300076: Component_1
+    4300078: ID221
+    4300080: ID229
+    4300082: ID235
+    4300084: ID243
+    4300086: Component_2
+    4300088: ID269
+    4300090: ID275
+    4300092: ID281
+    4300094: ID287
+    4300096: ID293
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0250000004
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
